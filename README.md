@@ -25,7 +25,7 @@ Implements **behaviour cloning** for a Unitree Go2-style quadruped robot.
 ### Screenshot
 Below is a snapshot of the quadruped walking in simulation:
 
-![Quadruped Walking Screenshot](path/to/Screenshot_Unitree_Go2.png)
+![Quadruped Walking Screenshot](Screenshot_Unitree_Go2.png)
 
 ### Video Demonstration
 Watch the simulation demo here:  
