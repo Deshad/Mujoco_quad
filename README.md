@@ -29,7 +29,7 @@ Below is a snapshot of the quadruped walking in simulation:
 
 ### Video Demonstration
 Watch the simulation demo here:  
-[🎥 Video Demonstration](path/to/Unitree_Recording_turn.mp4)
+[🎥 Video Demonstration]( Unitree_Recording_turn.mov)
 
 ---
 
