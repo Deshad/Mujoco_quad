@@ -3,8 +3,9 @@
 This repository contains simulation scripts for controlling a quadruped robot in a physics-based environment. The project demonstrates both **rule-based walking** and **behaviour cloning** using reinforcement learning and imitation learning techniques.
 
 ---
-![Quadruped Turning GIF](Unitree_Turn.gif)
-Unitree_Turn.gif
+<p align="center">
+  <img src="Unitree_Turn.gif" alt="Quadruped Walking Demo" width="600"/>
+</p>
 ---
 
 ## 🐾 Overview
