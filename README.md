@@ -1,4 +1,4 @@
-# Quadruped Walking and Behaviour Cloning
+# Quadruped Walk/Turn and Behaviour Cloning
 
 This repository contains simulation scripts for controlling a quadruped robot in a physics-based environment. The project demonstrates both **rule-based walking** and **behaviour cloning** using reinforcement learning and imitation learning techniques.
 
